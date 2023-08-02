@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "377666847299",
+    "project_id": "samilli",
+    "storage_bucket": "samilli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377666847299:android:10ca940c78d5a0eccb8af6",
+        "android_client_info": {
+          "package_name": "com.mycompany.samiili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377666847299-okv67f0ov2ngljgee3s475aor12dhj8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.samiili",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "377666847299-blrl99oq38hkdfhsrmm2if384fdbjogl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvxxMfK6M5ZFCZxnuDpu7u2w_rtzOzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377666847299-blrl99oq38hkdfhsrmm2if384fdbjogl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377666847299-3orcsp5q7qndonqh9lv58ft1tdgfm9or.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.samiili"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
